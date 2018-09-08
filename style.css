@@ -792,7 +792,6 @@ main {
     font-size: 13px;
     margin-top: 10px;
     padding: 5px;
-    width: calc(100%/6 - 20px);
 }
 
 .footer-legal {
